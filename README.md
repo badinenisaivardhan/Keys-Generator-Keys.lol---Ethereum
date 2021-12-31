@@ -5,4 +5,4 @@ This repository contains the key generator as Keys.lol Implemenetation using pyt
 "Pip install blocksmith"
 
 # Usage
-Python3 main.py <pagenumber> 
+Python3 main.py <<pagenumber>> 
